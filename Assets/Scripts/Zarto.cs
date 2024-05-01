@@ -21,6 +21,7 @@ public class Zarto : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(Vector2.up * JumpForce);
+            //aaaaaaaaaaaa
         }
     }
 }
